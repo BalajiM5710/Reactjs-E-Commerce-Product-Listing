@@ -9,7 +9,7 @@ This project is a React-based e-commerce product listing application that showca
 - **Sorting:** Enables users to sort products by price (low to high or high to low).
 - **Responsive Design:** Adapts to different screen sizes for a seamless user experience on desktops, tablets, and mobile devices.
 - **Navigation:** Utilizes React Router for easy navigation between different sections of the application (e.g., product listing, product details).
-- **API Integration:** Fetches product data from a JSON API.
+- **API Integration:** Fetches product data from Fake Store API.
 
 ## Technologies Used
 
